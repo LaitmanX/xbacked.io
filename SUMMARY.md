@@ -8,7 +8,5 @@
 ## Продукт <a href="#product" id="product"></a>
 
 * [Подключение кошельков](product/podklyuchenie-koshelkov.md)
-
-***
-
-* [Инструкция](instrukciya.md)
+* [Инструкция](product/instrukciya.md)
+* [Минт xUSD](product/mint-xusd.md)
