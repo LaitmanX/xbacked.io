@@ -10,3 +10,4 @@
 * [Подключение кошельков](product/podklyuchenie-koshelkov.md)
 * [Инструкция](product/instrukciya.md)
 * [Минт xUSD](product/mint-xusd.md)
+* [Ликвидации](product/likvidacii.md)
